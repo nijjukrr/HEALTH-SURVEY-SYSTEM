@@ -11,7 +11,7 @@ HealthDrop is an advanced, AI-powered disease surveillance and public health man
 
 ## ✨ Project Preview
 
-![HealthDrop Mockup](HEALTH-SURVEY-SYSTEM-main/assets/mockup.png)
+![HealthDrop Mockup](assets/mockup.png)
 
 ---
 
