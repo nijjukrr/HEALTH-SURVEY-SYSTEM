@@ -7,7 +7,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "tunnel": "expo start --tunnel"
+    "tunnel": "expo start --tunnel",
+    "build": "npx expo export --platform web"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
@@ -16,6 +17,7 @@
     "@supabase/supabase-js": "^2.39.7",
     "expo": "~54.0.33",
     "expo-auth-session": "^7.0.10",
+    "expo-blur": "~15.0.8",
     "expo-crypto": "^15.0.8",
     "expo-image-picker": "~17.0.10",
     "expo-location": "~19.0.8",
